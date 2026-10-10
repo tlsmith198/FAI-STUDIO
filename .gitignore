@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.spec
+config.json
+# Customer drawings / data packages are export-controlled (ITAR / CUI): never commit them
+*.zip
+customer_data/

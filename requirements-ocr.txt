@@ -1,0 +1,3 @@
+# OCR for scanned drawings (optional). Works on Python 3.9 - 3.14, no admin rights, models included.
+rapidocr>=3.0
+onnxruntime>=1.20
